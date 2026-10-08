@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Jahnavi 👋
 
-<!--
-**Jahnavi-Nadella/Jahnavi-Nadella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE-DS Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I am a B.Tech student interested in software development and problem solving. I am currently improving my skills in programming, SQL, web development, and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 🚀 Projects
+
+### Quiz Application
+
+A web-based quiz application developed using HTML, CSS, and JavaScript.
+
+**Features:**
+- Multiple-choice questions
+- Score calculation
+- Correct/wrong answer indication
+- Quiz restart option
+- Responsive user interface
+
+🔗 **Live Demo:** https://jahnavi-nadella.github.io/Quiz-Application/
+
+🔗 **Source Code:** https://github.com/Jahnavi-Nadella/Quiz-Application
+
+## 🎯 Career Goal
+
+To start my career as a Software Engineer and continuously improve my technical and problem-solving skills.
+
+## 📫 Contact
+
+GitHub: https://github.com/Jahnavi-Nadella
